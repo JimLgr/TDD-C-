@@ -1,0 +1,30 @@
+C:\Users\pc\source\repos\TDD\TDD01\bin\Debug\net6.0\TDD01.exe
+C:\Users\pc\source\repos\TDD\TDD01\bin\Debug\net6.0\TDD01.deps.json
+C:\Users\pc\source\repos\TDD\TDD01\bin\Debug\net6.0\TDD01.runtimeconfig.json
+C:\Users\pc\source\repos\TDD\TDD01\bin\Debug\net6.0\TDD01.dll
+C:\Users\pc\source\repos\TDD\TDD01\bin\Debug\net6.0\ref\TDD01.dll
+C:\Users\pc\source\repos\TDD\TDD01\bin\Debug\net6.0\TDD01.pdb
+C:\Users\pc\source\repos\TDD\TDD01\obj\Debug\net6.0\TDD01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\TDD\TDD01\obj\Debug\net6.0\TDD01.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\TDD\TDD01\obj\Debug\net6.0\TDD01.AssemblyInfo.cs
+C:\Users\pc\source\repos\TDD\TDD01\obj\Debug\net6.0\TDD01.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\TDD\TDD01\obj\Debug\net6.0\TDD01.dll
+C:\Users\pc\source\repos\TDD\TDD01\obj\Debug\net6.0\ref\TDD01.dll
+C:\Users\pc\source\repos\TDD\TDD01\obj\Debug\net6.0\TDD01.pdb
+C:\Users\pc\source\repos\TDD\TDD01\obj\Debug\net6.0\TDD01.genruntimeconfig.cache
+C:\Users\pc\source\repos\TDD\TDD01\obj\Debug\net6.0\TDD01.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\obj\Debug\net6.0\TDD01.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\obj\Debug\net6.0\TDD01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\obj\Debug\net6.0\TDD01.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\obj\Debug\net6.0\TDD01.AssemblyInfo.cs
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\obj\Debug\net6.0\TDD01.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\obj\Debug\net6.0\TDD01.dll
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\obj\Debug\net6.0\ref\TDD01.dll
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\obj\Debug\net6.0\TDD01.pdb
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\bin\Debug\net6.0\TDD01.exe
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\bin\Debug\net6.0\TDD01.deps.json
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\bin\Debug\net6.0\TDD01.runtimeconfig.json
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\bin\Debug\net6.0\TDD01.dll
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\bin\Debug\net6.0\ref\TDD01.dll
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\bin\Debug\net6.0\TDD01.pdb
+C:\Users\pc\source\repos\Age avec une classe duration en résultat\TDD01\obj\Debug\net6.0\TDD01.genruntimeconfig.cache

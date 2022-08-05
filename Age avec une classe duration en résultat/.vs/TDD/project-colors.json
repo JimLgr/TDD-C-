@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e693adac-575f-472e-b87a-6473376f9eba": {
+      "ProjectGuid": "e693adac-575f-472e-b87a-6473376f9eba",
+      "DisplayName": "TDD01",
+      "ColorIndex": 0
+    },
+    "5fbf90b3-50db-4083-8a2d-3736e2dd784e": {
+      "ProjectGuid": "5fbf90b3-50db-4083-8a2d-3736e2dd784e",
+      "DisplayName": "UsingMethode",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
